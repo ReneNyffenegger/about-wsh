@@ -2,7 +2,8 @@
 
 sub main()
 
-   dim wsh as WshShell
+   dim sh as WshShell
+   dim nw as WshNetwork
 
    activeWorkbook.saved =true
 
