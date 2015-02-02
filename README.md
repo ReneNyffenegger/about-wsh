@@ -1,4 +1,1 @@
-about-wsh
-=========
-
-About Windows Script Host
+# about wsh (Windows Script Host)
