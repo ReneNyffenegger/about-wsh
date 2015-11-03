@@ -1,1 +1,1 @@
-# about WSH (Windows Script Host)
+# about wsh (Windows Script Host)
